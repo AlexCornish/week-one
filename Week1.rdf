@@ -1,0 +1,122 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#">
+    <bib:Document rdf:about="https://www.zotero.org/libraries">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_2"/>
+        <dc:title>My Library | Zotero</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.zotero.org/libraries</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-03 16:59:06</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_2">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>My Library | Zotero</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.zotero.org/libraries</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-03 16:59:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="http://www.6floors.org/bracket/2016/03/07/returning-women-to-the-history-of-digital-history/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_4"/>
+        <dc:title>Returning Women to the History of Digital History – [bracket]</dc:title>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.6floors.org/bracket/2016/03/07/returning-women-to-the-history-of-digital-history/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-03 18:42:08</dcterms:dateSubmitted>
+        <dc:description>Library Catalog: www.6floors.org</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_4">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.6floors.org/bracket/2016/03/07/returning-women-to-the-history-of-digital-history/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-03 18:42:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://twitter.com/amaliasl/status/1245548045120483328">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Twitter</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_6"/>
+        <dc:title>Amalia Skarlatou Levi on Twitter: &quot;6/ The 19th-Century Concord Digital Archive aims to redefine assumptions abt Concord writers by stressing their interactions with other marginalized groups “less frequently recorded in textual documents.&quot; #digitalarchives #ethnicity #race #socialclasses https://t.co/O7Jb51yEpp&quot; / Twitter</dc:title>
+        <z:language>en</z:language>
+        <z:shortTitle>Amalia Skarlatou Levi on Twitter</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://twitter.com/amaliasl/status/1245548045120483328</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-05 18:35:17</dcterms:dateSubmitted>
+        <dc:description>Library Catalog: twitter.com</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://twitter.com/amaliasl/status/1245548045120483328</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-05 18:35:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://ahpn.lib.utexas.edu/material_usage_statement">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+            <z:Website>
+                <dc:title>Digital Archive of the Guatemalan National Police Historical Archive (AHPN)</dc:title>
+            </z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_8"/>
+        <dc:title>Disclaimer and Usage Statement</dc:title>
+        <dcterms:abstract>This website contains faithful reproductions of the documents digitized by the Historic Archive of the National Police of Guatemala (the AHPN), as those materials were provided to the University of Texas. We received the records in response to a request formally made under Guatemala’s freedom of information law (Ley de Accesso a la Información Pública Guatemala, Decreto Número 57-2008, which took effect in 2009).</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ahpn.lib.utexas.edu/material_usage_statement</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-05 18:41:07</dcterms:dateSubmitted>
+        <dc:description>Library Catalog: ahpn.lib.utexas.edu</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ahpn.lib.utexas.edu/material_usage_statement</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-05-05 18:41:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>
