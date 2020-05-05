@@ -1,6 +1,7 @@
 Not much to report in setting up all the parts for this as nothing went wrong, apart from an unrelated blue screen. 
 It's not really related to this course and I couldn't screenshot it, but I googled the error code and determined that it 
-was indicative of processor failure. :(
+was indicative of processor failure. 
+Update: Computer is completely dead. Had to borrow one from roommate until the new one arrives.
 
 I don't think I encountered any new terms as I have worked quite a bit with GitHub before. 
 
